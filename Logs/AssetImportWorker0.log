@@ -1,0 +1,427 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.58f1 (44b8bf3a3225) revision 4503743'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'de' Physical Memory: 32634 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-09-26T15:34:45Z
+
+COMMAND LINE ARGUMENTS:
+G:\Unity\Unity Hub\Hub\6000.0.58f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/Unity/Projects/SCP Short Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53079
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: G:/Unity/Projects/SCP Short Game
+G:/Unity/Projects/SCP Short Game
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9488]  Target information:
+
+Player connection [9488]  * "[IP] 192.168.2.108 [Port] 0 [Flags] 2 [Guid] 3185632249 [EditorId] 3185632249 [Version] 1048832 [Id] WindowsEditor(7,Sparky) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9488] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9488] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.58f1 (44b8bf3a3225)
+[Subsystems] Discovering subsystems at path G:/Unity/Unity Hub/Hub/6000.0.58f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/Unity/Projects/SCP Short Game/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2488)
+    Vendor:   NVIDIA
+    VRAM:     8018 MB
+    Driver:   32.0.15.8115
+Initialize mono
+Mono path[0] = 'G:/Unity/Unity Hub/Hub/6000.0.58f1/Editor/Data/Managed'
+Mono path[1] = 'G:/Unity/Unity Hub/Hub/6000.0.58f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'G:/Unity/Unity Hub/Hub/6000.0.58f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/Unity/Unity Hub/Hub/6000.0.58f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002699 seconds.
+- Loaded All Assemblies, in  0.593 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.479 seconds
+Domain Reload Profiling: 1073ms
+	BeginReloadAssembly (188ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (61ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (255ms)
+		LoadAssemblies (186ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (252ms)
+			TypeCache.Refresh (250ms)
+				TypeCache.ScanAssembly (229ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (480ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (413ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (90ms)
+			ProcessInitializeOnLoadAttributes (219ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.985 seconds
+Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.141 seconds
+Domain Reload Profiling: 2125ms
+	BeginReloadAssembly (242ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (628ms)
+		LoadAssemblies (413ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (347ms)
+			TypeCache.Refresh (264ms)
+				TypeCache.ScanAssembly (243ms)
+			BuildScriptInfoCaches (65ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1142ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (885ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (163ms)
+			ProcessInitializeOnLoadAttributes (643ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 31 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6086 unused Assets / (6.4 MB). Loaded Objects now: 6742.
+Memory consumption went from 133.4 MB to 127.0 MB.
+Total: 13.161900 ms (FindLiveObjects: 0.924500 ms CreateObjectMapping: 1.357700 ms MarkObjects: 6.468600 ms  DeleteObjects: 4.410000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 179248.925003 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(96b9efe925b1cf54aae7151553be1cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(96b9efe925b1cf54aae7151553be1cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fcd979aa5a8127e2f212b2b20b8b3105') in 0.0370332 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.532991 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c391582d739b6e62a5220f35cbb167ac') in 0.0006749 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.159456 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(14ac8350eca2ebd40919b9de32d72a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(14ac8350eca2ebd40919b9de32d72a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '56aaee0307c7e2ac0dd533b7512c8da5') in 0.0008986 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 257.897136 seconds.
+  path: Assets/Textures/forestfloor.jpg
+  artifactKey: Guid(15d0bbd7f180d63418a4ce404aa117e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/forestfloor.jpg using Guid(15d0bbd7f180d63418a4ce404aa117e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b80b030f017bcc59d82e22be89eb83f') in 0.0553957 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1094.261058 seconds.
+  path: Assets/prefabs/scp-427-scp-containment-breach/textures/427.jpg
+  artifactKey: Guid(08a8fa40bb4f8884e9c2727f05f33235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/scp-427-scp-containment-breach/textures/427.jpg using Guid(08a8fa40bb4f8884e9c2727f05f33235) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '800c56c40ffbcfd47b478d025407f833') in 0.0196169 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/prefabs/clipboard-scp-containment-breach/textures/clipboard.png
+  artifactKey: Guid(ce5dd5834fcffa1499b74d267a76e267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/clipboard-scp-containment-breach/textures/clipboard.png using Guid(ce5dd5834fcffa1499b74d267a76e267) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2662110754aa4c49ba166edf99c7606c') in 0.0494465 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/prefabs/scp-1762-here-be-dragons/textures/crate_texture - Default Texture.png
+  artifactKey: Guid(fac8de129e418dd4b9fad2dd99650873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/scp-1762-here-be-dragons/textures/crate_texture - Default Texture.png using Guid(fac8de129e418dd4b9fad2dd99650873) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c277e70fcd5d5a216f0ead732202f4c1') in 0.0101147 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.290732 seconds.
+  path: Assets/prefabs/scpcb-button/textures/KeyPad.jpg
+  artifactKey: Guid(8084b9437188ea94d80c0fdeefb9c934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/scpcb-button/textures/KeyPad.jpg using Guid(8084b9437188ea94d80c0fdeefb9c934) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db63660af101692636e0569f35a0cf94') in 0.0076869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.755425 seconds.
+  path: Assets/prefabs/scpcb-button/textures/KeyPad_emmissive.png
+  artifactKey: Guid(7b8830c4a348f1e44ae0793fc9570d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/scpcb-button/textures/KeyPad_emmissive.png using Guid(7b8830c4a348f1e44ae0793fc9570d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16e9df933e0902ad0864b6c9a8286c0d') in 0.018739 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.152826 seconds.
+  path: Assets/prefabs/scp-999-mug/source/scp_999_mug/scp_999_mug/textures/mug_scp_999_texture.png
+  artifactKey: Guid(a33b5878d9614e040b836c0649bc8a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/scp-999-mug/source/scp_999_mug/scp_999_mug/textures/mug_scp_999_texture.png using Guid(a33b5878d9614e040b836c0649bc8a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e52c8ce479c6e4f7a42f3815c9713e4') in 0.0085636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.007764 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8d2a96b4b969bd4c8fcbb59393ce2f83') in 0.4087233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/prefabs/scp-radio/source/Radio.blend
+  artifactKey: Guid(24925e894117f6e46be79c69587b5eb5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/scp-radio/source/Radio.blend using Guid(24925e894117f6e46be79c69587b5eb5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e49415516ac3814644d7d0d9031d174b') in 0.0689936 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/prefabs/clipboard-scp-containment-breach/textures/clipboard.png
+  artifactKey: Guid(ce5dd5834fcffa1499b74d267a76e267) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/clipboard-scp-containment-breach/textures/clipboard.png using Guid(ce5dd5834fcffa1499b74d267a76e267) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2963155f9d2ec191e41acc582314a306') in 0.0384795 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/prefabs/scp-999-mug/source/scp_999_mug/scp_999_mug/model/SCP_999_mug.blend
+  artifactKey: Guid(f68ad3859b6e1b64196538b458534a97) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/scp-999-mug/source/scp_999_mug/scp_999_mug/model/SCP_999_mug.blend using Guid(f68ad3859b6e1b64196538b458534a97) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '26a099145ead5379aeca21773945185d') in 0.359136 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/prefabs/scp-1762-here-be-dragons/source/crate02/HereBeDragons.blend
+  artifactKey: Guid(822157518d8f5704a865e2ccda1a4294) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/scp-1762-here-be-dragons/source/crate02/HereBeDragons.blend using Guid(822157518d8f5704a865e2ccda1a4294) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2b95123e06eaa39f70b3110d4b5b554b') in 0.0154984 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(8105016687592461f977c054a80ce2f2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Readme.asset using Guid(8105016687592461f977c054a80ce2f2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'adff06302e561847ca6ec1bbd11adef7') in 0.0058469 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/prefabs/scpcb-button/textures/KeyPad_emmissive.png
+  artifactKey: Guid(7b8830c4a348f1e44ae0793fc9570d82) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/scpcb-button/textures/KeyPad_emmissive.png using Guid(7b8830c4a348f1e44ae0793fc9570d82) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7edcd215234ffe928bcb3383a6a50906') in 0.0112718 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/TutorialInfo/Scripts/Readme.cs
+  artifactKey: Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Scripts/Readme.cs using Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b50c2797d2f33b3f6931588eb5fd9911') in 0.0049674 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Settings/Mobile_RPAsset.asset
+  artifactKey: Guid(5e6cbd92db86f4b18aec3ed561671858) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Mobile_RPAsset.asset using Guid(5e6cbd92db86f4b18aec3ed561671858) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1461267e4fbb0f7c765b1992cfc73aa7') in 0.1490647 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/prefabs/clipboard-scp-containment-breach/source/Clipboard.blend
+  artifactKey: Guid(e8c290fed64be2c4bbe3aa56c059467b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/clipboard-scp-containment-breach/source/Clipboard.blend using Guid(e8c290fed64be2c4bbe3aa56c059467b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1d986dc0d432b23c711938ed7ccab1e0') in 0.0136209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/prefabs/scp-999-mug/source/scp_999_mug.rar
+  artifactKey: Guid(635eb7c82dac27f4bb7f7bc61abdae98) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/scp-999-mug/source/scp_999_mug.rar using Guid(635eb7c82dac27f4bb7f7bc61abdae98) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '343e67f1f38d196f5f0cc0eb7c3248f8') in 0.0028089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/prefabs/scp-999-mug/textures/mug_scp_999_texture.png
+  artifactKey: Guid(eef4a24c046287845a748e024deb7ff6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/scp-999-mug/textures/mug_scp_999_texture.png using Guid(eef4a24c046287845a748e024deb7ff6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8af32c31ef12d2404011e46d9d842df8') in 0.0083719 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Settings/SampleSceneProfile.asset
+  artifactKey: Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/SampleSceneProfile.asset using Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e7bd6f9839087276bd5a045ca1abc47e') in 0.0062649 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/prefabs/scpcb-button/textures/KeyPad.jpg
+  artifactKey: Guid(8084b9437188ea94d80c0fdeefb9c934) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/scpcb-button/textures/KeyPad.jpg using Guid(8084b9437188ea94d80c0fdeefb9c934) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '294fef79d31ea1b1fdef8c6b369fedc4') in 0.0096143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+  artifactKey: Guid(476cc7d7cd9874016adc216baab94a0a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs using Guid(476cc7d7cd9874016adc216baab94a0a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c64d1283d2af0f4aec3508d6c09e38ff') in 0.0033316 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Settings/PC_Renderer.asset
+  artifactKey: Guid(f288ae1f4751b564a96ac7587541f7a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/PC_Renderer.asset using Guid(f288ae1f4751b564a96ac7587541f7a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '975b1c63f095990680efa2b3c52cc656') in 0.0276522 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/prefabs/scp-427-scp-containment-breach/source/scp427.fbx
+  artifactKey: Guid(a4377aed94b1694469a1b8fd29956eba) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/prefabs/scp-427-scp-containment-breach/source/scp427.fbx using Guid(a4377aed94b1694469a1b8fd29956eba) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '119586a444d58055b2a747af76b955a5') in 0.028697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/UniversalRenderPipelineGlobalSettings.asset using Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e9e7d86307104d79a1a300f10e39ca6e') in 0.07149 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(96b9efe925b1cf54aae7151553be1cd4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/New Terrain.asset using Guid(96b9efe925b1cf54aae7151553be1cd4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f34eff713c2f203b4f9a212f4b84d751') in 0.0071319 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
